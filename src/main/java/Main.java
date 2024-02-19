@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        String name = "Karl";
+        String name = "Aleksander";
         int age = 10;
     }
 }
